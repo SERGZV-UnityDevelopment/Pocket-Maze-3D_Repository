@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: e351835daea5eb740bfe0801de7ce495
+timeCreated: 1521466751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Angle (1)
+    100002: Angle (2)
+    100004: Angle (3)
+    100006: Angle (4)
+    100008: Angle (5)
+    100010: Angle (6)
+    100012: Angle (7)
+    100014: BackGround
+    100016: BigAngle (1)
+    100018: Clamp (1)
+    100020: Clamp (2)
+    100022: Cross (1)
+    100024: Dot
+    100026: Five-CelledLine (1)
+    100028: Four-CelledLine (1)
+    100030: Four-CelledLine (2)
+    100032: Four-CelledLine (3)
+    100034: Four-Stick (1)
+    100036: Home
+    100038: //RootNode
+    100040: MazeBorder
+    100042: MiddleAngle (1)
+    100044: MiddleAngle (2)
+    100046: Rectangle (1)
+    100048: Rectangle (2)
+    100050: RectangleNarrow (1)
+    100052: RectangleSmall (1)
+    100054: Six-CelledLine (2)
+    100056: T-Figure (1)
+    100058: Tank-Figure (1)
+    100060: Ten-CelledLine (1)
+    100062: Three-CelledStick (1)
+    100064: Two-CelledStick (1)
+    100066: Two-CelledStick (2)
+    100068: Two-CelledStick (3)
+    400000: Angle (1)
+    400002: Angle (2)
+    400004: Angle (3)
+    400006: Angle (4)
+    400008: Angle (5)
+    400010: Angle (6)
+    400012: Angle (7)
+    400014: BackGround
+    400016: BigAngle (1)
+    400018: Clamp (1)
+    400020: Clamp (2)
+    400022: Cross (1)
+    400024: Dot
+    400026: Five-CelledLine (1)
+    400028: Four-CelledLine (1)
+    400030: Four-CelledLine (2)
+    400032: Four-CelledLine (3)
+    400034: Four-Stick (1)
+    400036: Home
+    400038: //RootNode
+    400040: MazeBorder
+    400042: MiddleAngle (1)
+    400044: MiddleAngle (2)
+    400046: Rectangle (1)
+    400048: Rectangle (2)
+    400050: RectangleNarrow (1)
+    400052: RectangleSmall (1)
+    400054: Six-CelledLine (2)
+    400056: T-Figure (1)
+    400058: Tank-Figure (1)
+    400060: Ten-CelledLine (1)
+    400062: Three-CelledStick (1)
+    400064: Two-CelledStick (1)
+    400066: Two-CelledStick (2)
+    400068: Two-CelledStick (3)
+    2100000: NowMaze
+    2100002: Back
+    2300000: Angle (1)
+    2300002: Angle (2)
+    2300004: Angle (3)
+    2300006: Angle (4)
+    2300008: Angle (5)
+    2300010: Angle (6)
+    2300012: Angle (7)
+    2300014: BackGround
+    2300016: BigAngle (1)
+    2300018: Clamp (1)
+    2300020: Clamp (2)
+    2300022: Cross (1)
+    2300024: Dot
+    2300026: Five-CelledLine (1)
+    2300028: Four-CelledLine (1)
+    2300030: Four-CelledLine (2)
+    2300032: Four-CelledLine (3)
+    2300034: Four-Stick (1)
+    2300036: Home
+    2300038: MazeBorder
+    2300040: MiddleAngle (1)
+    2300042: MiddleAngle (2)
+    2300044: Rectangle (1)
+    2300046: Rectangle (2)
+    2300048: RectangleNarrow (1)
+    2300050: RectangleSmall (1)
+    2300052: Six-CelledLine (2)
+    2300054: T-Figure (1)
+    2300056: Tank-Figure (1)
+    2300058: Ten-CelledLine (1)
+    2300060: Three-CelledStick (1)
+    2300062: Two-CelledStick (1)
+    2300064: Two-CelledStick (2)
+    2300066: Two-CelledStick (3)
+    3300000: Angle (1)
+    3300002: Angle (2)
+    3300004: Angle (3)
+    3300006: Angle (4)
+    3300008: Angle (5)
+    3300010: Angle (6)
+    3300012: Angle (7)
+    3300014: BackGround
+    3300016: BigAngle (1)
+    3300018: Clamp (1)
+    3300020: Clamp (2)
+    3300022: Cross (1)
+    3300024: Dot
+    3300026: Five-CelledLine (1)
+    3300028: Four-CelledLine (1)
+    3300030: Four-CelledLine (2)
+    3300032: Four-CelledLine (3)
+    3300034: Four-Stick (1)
+    3300036: Home
+    3300038: MazeBorder
+    3300040: MiddleAngle (1)
+    3300042: MiddleAngle (2)
+    3300044: Rectangle (1)
+    3300046: Rectangle (2)
+    3300048: RectangleNarrow (1)
+    3300050: RectangleSmall (1)
+    3300052: Six-CelledLine (2)
+    3300054: T-Figure (1)
+    3300056: Tank-Figure (1)
+    3300058: Ten-CelledLine (1)
+    3300060: Three-CelledStick (1)
+    3300062: Two-CelledStick (1)
+    3300064: Two-CelledStick (2)
+    3300066: Two-CelledStick (3)
+    4300000: Two-CelledStick (3)
+    4300002: Two-CelledStick (2)
+    4300004: Rectangle (2)
+    4300006: MiddleAngle (2)
+    4300008: Clamp (2)
+    4300010: Four-CelledLine (1)
+    4300012: Four-CelledLine (3)
+    4300014: Four-Stick (1)
+    4300016: Angle (7)
+    4300018: Angle (6)
+    4300020: Angle (3)
+    4300022: Angle (4)
+    4300024: Angle (2)
+    4300026: Angle (1)
+    4300028: Tank-Figure (1)
+    4300030: RectangleSmall (1)
+    4300032: RectangleNarrow (1)
+    4300034: Three-CelledStick (1)
+    4300036: Six-CelledLine (2)
+    4300038: Two-CelledStick (1)
+    4300040: Five-CelledLine (1)
+    4300042: Cross (1)
+    4300044: BigAngle (1)
+    4300046: Clamp (1)
+    4300048: Four-CelledLine (2)
+    4300050: Ten-CelledLine (1)
+    4300052: BackGround
+    4300054: T-Figure (1)
+    4300056: MiddleAngle (1)
+    4300058: Dot
+    4300060: MazeBorder
+    4300062: Rectangle (1)
+    4300064: Angle (5)
+    4300066: Home
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back
+    second: {fileID: 2100000, guid: 9d4132d42252a8642a9daa7a0e458ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NowMaze
+    second: {fileID: 2100000, guid: 65d72fa887abf4b40841c327a021ae78, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
