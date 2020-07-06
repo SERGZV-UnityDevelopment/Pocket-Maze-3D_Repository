@@ -1,4 +1,4 @@
-# A_Project
+# Pocket Maze 3D_Project
 
 Эта игра для платформы Android. Клон известной игры Pac-Man в 3D.
 Эту игру я делал в 2018 году.
